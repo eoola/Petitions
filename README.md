@@ -1,5 +1,5 @@
 # Petitions
-*Political views/petitions shown in screenshots are not my own but simply pulled from the Petitions API used.
+*Political views/petitions shown in screenshots are not my own but simply pulled from the Petitions API used.*
 
 Application to view petitions created using SwiftUI.
 
